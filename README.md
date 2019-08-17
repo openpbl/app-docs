@@ -1,7 +1,7 @@
 # OPEN-PBL APP
 
 **OPEN-PBL**<br>
-OPEN-PBL is an open source software (OSS) that manages problem-based learning (PBL) experiences. Schools and educational institutions are free to use OPEN-PBL to ensure that the planning, implementation and measurement of the effectiveness of their learning experiences fully follow the theoretical framework of the PBL.<br><br>
+OPEN-PBL is an open source software (OSS) that manages problem-based learning (PBL) experiences. Schools and educational institutions are free to use OPEN-PBL to ensure that the planning, implementation and measurement of the effectiveness of their learning experiences fully follow the theoretical framework of the PBL.
 
 OPEN-PBL can be used by educational institutions and companies to:
 * Add PBL experiences to their existing education systems or;
@@ -28,12 +28,11 @@ The main features offered by OPEN-PBL in GC teacher and student interaction envi
 * Record student participation in PC discussion classes;
 * Assist in the evaluation and classification of student participation in PC discussion classes;<br><br>
 
-
 **CONCEPT AND DEVELOPMENT**<br>
 OPEN-PBL's conceptualization and strategic design process originated from research in the PhD program of the PUC-Rio Department of Informatics.  Currently, the development of the code is coordinated by non-profit OPEN-PBL.ORG and follows the practices suggested by the international associations for the creation, versioning and licensing of free code. <br><br>
 
-**LICENSING **<br>
-OPEN-PBL's license to use is *** and its code, as well as all instructions for its safe deployment, can be accessed at www.open-pbl.org.<br><br>
+**LICENSING**<br>
+OPEN-PBL's license to use is <XXX> and its code, as well as all instructions for its safe deployment, can be accessed at www.open-pbl.org.<br><br>
 
 **PROBLEM-BASED LEARNING**<br>
 OPEN-PBL.ORG maintains, in partnership with The Interdisciplinary Journal of Problem-Based Learning, an information monitor on new academic studies and PBL application cases. The content is aimed at teachers, educators, T&D professionals and education executives interested in following discussions about the PBL learning strategy. <br><br>
