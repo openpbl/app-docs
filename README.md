@@ -1,50 +1,44 @@
-# OPEN-PBL LEARNING MANAGEMENT SYSTEM
+# OPEN-PBL APP
 
-**O QUE É**<br>
-OPEN-PBL LMS é um “sistema de gestão da aprendizagem” (LMS) especializado na “aprendizagem baseada em problemas” (PBL), que tem seu desenvolvimento sob a forma de código aberto à comunidade de desenvolvedores de software. O desenvolvimento do OPEN-PBL LMS é coordenado pelo COMITÊ TÉCNICO do PROJETO OPEN-PBL.<br><br>
+**OPEN-PBL**<br>
+OPEN-PBL is an open source software (OSS) that manages problem-based learning (PBL) experiences. Schools and educational institutions are free to use OPEN-PBL to ensure that the planning, implementation and measurement of the effectiveness of their learning experiences fully follow the theoretical framework of the PBL.<br><br>
 
+OPEN-PBL can be used by educational institutions and companies to:
+* Add PBL experiences to their existing education systems or;
+* Deploy new student-centered educational systems.<br><br>
 
-**QUAIS OS OBJETIVOS**<br>
-O OPEN-PBL LMS gerencia a interação entre professores, alunos e conteúdo para o correto: **planejamento**; **Aplicação** e; **medição da eficácia** das experiências de aprendizagem baseadas problemas.<br>
-O software OPEN-PBL LMS auxilia: 
-* Os professores na criação, divulgação, aplicação e avaliação do desempenho dos alunos nas aulas de discussão dos “casos-problema” (CP).
-* Os alunos na pesquisa dos tópicos acadêmicos pré-requisitos dos casos-problema e promove a interação entre integrantes de grupos de alunos formados para preparação dos argumentos para apresentação nas aulas.<br><br>
+To ensure that the PBL tutorial process is fully implemented, OPEN-PBL promotes teacher-student interaction with the aim of:
+* Assisting teachers in the creation and dissemination of “problem scenarios” (PC) and the assessment of student performance in these PC discussion classes; 
+* Assist students in the individual research and learning of the academic topics needed for PC analysis and preparation of the arguments to be presented in the discussion classes.<br><br>
 
+**ENVIRONMENTS AND FEATURES**<br>
+OPEN-PBL uses Google Classroom (GC) as the default interface for interaction with the actors involved in the learning process. The interaction is made in the following environments:
+* Individual GC environment of interaction with each student;
+* Individual GC environment of interaction with each teacher;
+* GC environment shared by teachers, dedicated to the elaboration and classification of a specific PC; 
+* Individual GC environment of interaction with each student, dedicated to research and proficiency assessment of each subject, prerequisite for the analysis of a PC;
+* GC environment shared by a group of students, dedicated to the preliminary study and the elaboration of the arguments of the PC analysis;
+* GC environment shared by students and teachers, intended for preliminary preparation for PC discussion classes;<br><br>
 
-**QUAIS AS PRINCIPAIS FUNCIONALIDADES**<br>
-Dentre as principais macro funcionalidades do OPEN-PBL LMS, destacam-se:
-* Auxílio aos professores na criação de case-problems (CP);
-* Criação dos ambientes digitais para auxiliar na realização de “face-to-face classes” para discussão dos CP;
-* Gerenciamento da divulgação do material do CP e de todo material complementar para o seu estudo preliminar antes das classes;
-* Gerenciamento dos ambientes digitais de interação do grupos formados para o estudo preliminar dos CP;
-* Avaliação da proficiência dos alunos nos subjects, pré-requisitos do CP;
-* Auxílio ao professor na administration da sessão face-to-face para discussão do CP;
-* Registro em arquivo audiovisual da participação dos alunos nas classes para discussão dos CP;
-* Avaliação e classificação da participação dos alunos nas classes para discussão dos CP;<br><br>
-
-
-**QUEM DEVE USAR**<br>
-Escolas e instituições de ensino em geral podem utilizar gratuitamente o código aberto do OPEN-PBL LMS para a gestão de sistemas educacionais centrados no aluno, baseados em resolução de problemas.<br><br>
-
-
-**INTEGRAÇÕES**<br>
-O OPEN-PBL LMS centraliza um ecossistema de software educacionais gratuitos que se integram ao sistema via APIs.<br>
-Dentre as APIs disponíveis e planejadas, destacam-se:
-* Google Classroom 
-* Google Suite (gratuito para escolas)
-* Microsoft Active Directory 
-* Outros<br><br>
+The main features offered by OPEN-PBL in GC teacher and student interaction environments are: 
+* Assisting teachers in the structured creation of PC;
+* Disseminate the PC and all complementary material associated with the interested students;
+* Assess students' proficiency in academic topics, prerequisites for PC analysis;
+* Assist the teacher in the preparation and execution of PC discussion classes;
+* Record student participation in PC discussion classes;
+* Assist in the evaluation and classification of student participation in PC discussion classes;<br><br>
 
 
-**INFRAESTRUTURA**<br>
-O OPEN-PBL LMS utiliza diversas tecnologias gratuitas de desenvolvimento, armazenagem e servidor. Dentre estas tecnologias, destacam-se:
-* GitHub (repositório e gestão de desenvolvimento de software da Microsoft) 
-* Python (Linguagem de programação de código aberto)
-* Go (Linguagem de programação de código aberto) - https://golang.org/
-* Tsuru (Plataforma de Serviços) - https://tsuru.io/
-* Mongo BD (Banco de dados não estruturado) 
-* MySQL (Banco de dados estruturado)<br><br>
+**CONCEPT AND DEVELOPMENT**<br>
+OPEN-PBL's conceptualization and strategic design process originated from research in the PhD program of the PUC-Rio Department of Informatics.  Currently, the development of the code is coordinated by non-profit OPEN-PBL.ORG and follows the practices suggested by the international associations for the creation, versioning and licensing of free code. <br><br>
 
+**LICENSING **<br>
+OPEN-PBL's license to use is *** and its code, as well as all instructions for its safe deployment, can be accessed at www.open-pbl.org.<br><br>
 
+**PROBLEM-BASED LEARNING**<br>
+OPEN-PBL.ORG maintains, in partnership with The Interdisciplinary Journal of Problem-Based Learning, an information monitor on new academic studies and PBL application cases. The content is aimed at teachers, educators, T&D professionals and education executives interested in following discussions about the PBL learning strategy. <br><br>
+
+**SUPPORT FOR SOCIAL ACTIONS**<br>
+OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application for use in educational initiatives by municipal governments and social actions.  <br><br>
 ...
 
