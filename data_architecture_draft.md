@@ -1,4 +1,4 @@
-# DATA ARCHITECTURE DRAFT   
+## DATA ARCHITECTURE DRAFT   
 
 These documents are intended to detail the **first draft** of the OPEN-PBL APP data architecture. It is divided into:
 * Conceptualization
@@ -6,10 +6,10 @@ These documents are intended to detail the **first draft** of the OPEN-PBL APP d
 * Routines
 
 ...
-## Conceptualization
+### Conceptualization
 
 
-## Entity-relationship model
+### Entity-relationship model
 
 
-## Routines
+### Routines
