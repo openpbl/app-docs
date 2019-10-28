@@ -30,3 +30,22 @@ openpbl_overall1.png
 
 
 ### Routines
+
+## FICHA TÉCNICA 
+**Nome**: Semente e Barro <br>
+**Autor**: RaphaLopes <br>
+**Criação**: Julho 2019  <br>
+**Técnica utilizada**: Pintura digital <br>
+**Dimensões**: 80 cm x 110 cm (cada quadro) <br>
+**Tiragem**: 20 peças <br><br>
+
+### Pedido
+Conheci a Mariana em um dos primeiros dias da faculdade de Arquitetura e Urbanismo, eu gostava de desenhar nas aulas e já esboça ideias como forma de croquis, até mesmo nas matérias teóricas. Foi na aula de teoria crítica da arquitetura, enquanto rabiscava alguma coisa, quando fui abordado com um pedido:<br>
+'- Faz um desenho para mim? (Risos)<br> 
+Com certeza olhei meio desconfiado, mas disse sim! Fiz um crânio meio derretido, colorido, acho que foi pedido dela, não lembro. 
+
+Assim começou uma amizade, em meio a períodos turbulentos, vitórias e sonhos que hoje se refletem no nosso presente! Mais de 8 anos depois, ela novamente me pediu um desenho, dessa vez uma arte para seu espaço em uma das maiores mostras de arquitetura de interiores do Rio de Janeiro, uma arte exclusiva para uma cozinha linda, conceitual, de ideal feminista que retrata a força do trabalho da mulher no mundo atual. De um desenho simples e bobo para a uma arte séria com identidade, uma arte que vêm da alma, sentida e projetada para abraçar o espaço. 
+
+Obrigado Mariana Caires por mais esse pedido!
+
+
