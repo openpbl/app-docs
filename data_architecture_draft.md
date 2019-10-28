@@ -11,6 +11,14 @@ While this document is not finalized, you can view the ppt documentation at http
 ### Conceptualization
 
 
+SEMENTE | BARRO
+------------ | -------------
+![Image1](/images/openpbl_overall1.png) | ![Image2](/openpbl_overall1.png)
+A semente à terra... | ...da terra ao barro
+
+<br><br>
+
+openpbl_overall1.png
 
 
 ### Entity-relationship model
