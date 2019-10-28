@@ -23,5 +23,10 @@ openpbl_overall1.png
 
 ### Entity-relationship model
 
+**AUTOR** | **RaphaLopes** 
+------------ | -------------
+![Image1](/images/openpbl_overall1.png) | LMS <br> PBL 
+[LinkedIn Page](https://www.linkedin.com/company/openpbl) | ... [LinkedIn Page](https://www.linkedin.com/company/openpbl)
+
 
 ### Routines
