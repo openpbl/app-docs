@@ -38,9 +38,11 @@ OPEN-PBL APP | OPEN PBL APP
 
 
 More details at:<br>
-https://www.linkedin.com/company/openpbl/about/ <br>
-https://github.com/openpbl/app-docs <br>
-http://www.open-pbl.org/ <br><br>
+[https://www.linkedin.com/company/openpbl/about/](https://www.linkedin.com/company/openpbl/about/) <br>
+[https://github.com/openpbl/app-docs](https://github.com/openpbl/app-docs) <br>
+[http://www.open-pbl.org/](http://www.open-pbl.org/) <br><br>
+
+[LinkedIn Page](https://www.linkedin.com/company/openpbl)
 
 
 ### OPEN-PBL CONCEPTUALIZATION AND DEVELOPMENT 
