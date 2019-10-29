@@ -1,4 +1,4 @@
-## OPEN-PBL APP ##
+## OPEN-PBL APP 
 
 OPEN-PBL is an **open source** software that manages **problem-based learning (PBL)** strategies. 
 
@@ -40,7 +40,8 @@ https://github.com/openpbl/app-docs <br>
 http://www.open-pbl.org/ <br>
 
 <br>
-## OPEN-PBL CONCEPTUALIZATION AND DEVELOPMENT ##
+### OPEN-PBL CONCEPTUALIZATION AND DEVELOPMENT 
+
 The process of conceptualizing and outlining the architecture of OPEN-PBL APP originated from doctoral research from the Department of Informatics of PUC-Rio. 
 
 Currently, code development is coordinated by OPEN-PBL.ORG, which is responsible for applying best international practices for the creation, versioning and licensing of **free code**. <br>
@@ -59,8 +60,7 @@ The content of **PBL Monitor** is aimed at teachers, educators, T&D professional
 **Support for social actions** <br>
 OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application in educational initiatives promoted by municipal governments and non-profit organizations.<br>
 
-<br>
-## OPEN-PBL ENVIRONMENTS AND FEATURES ##
+### OPEN-PBL ENVIRONMENTS AND FEATURES 
 
 **Virtual Learning Environments** <br>
 OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
