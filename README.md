@@ -14,6 +14,11 @@ From the PBL approach students learn by **solving problems** and **reflecting on
 **Why Few Schools Adopt PBL** <br>
 Despite the advantages, adopting an educational architecture based on PBL has a far greater cost than other methods, and is poorly scalable as it requires scarce academic resources in general.<br>
 
+CLASSICAL SCHOOL | PBL TUTORIAL PROCESS
+------------ | -------------
+![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process.png)
+... | ...
+
 **Why use the OPEN-PBL APP** <br>
 To ensure proper **application** and **measurement of the effectiveness** of educational architecture in order to:
 
@@ -32,13 +37,12 @@ a) **Interacts with teachers** to help them:<br>
 
 b) **Interacts with students** to help them:<br>
 - In **individual research and learning** of academic knowledge, necessary for the analysis of CP and;
-- In the **preparation of the individual arguments** be presented in the discussion classes.
+- In the **preparation of the individual arguments** be presented in the discussion classes. <br>
 
-
-SEMENTE | BARRO
+OPEN-PBL APP | OPEN PBL APP
 ------------ | -------------
-![Image1](/images/openpbl_overall1.png) | ![Image2](/openpbl_overall1.png)
-A semente à terra... | ...da terra ao barro
+![Image1](/images/openpbl_overall1.png) | ![Image2](/images/openpbl_overall1.png)
+... | ...
 
 
 More details at:<br>
