@@ -6,7 +6,7 @@ Educational institutions can use **for free** the OPEN-PBL APP to ensure that th
 
 Micro and small businesses can also take advantage of the benefits of the PBL approach and use **for free** the OPEN-PBL APP in their employee training and development.<br>
 
-**What is PBL**<br>  
+**What is PBL** <br>  
 Problem-based learning (PBL) is the base of an *educational strategy* used by various higher education institutions to train professionals with higher skills. Harvard, Minerva and School 42 are some examples of successful initiatives in the use of PBL.
 
 From the PBL approach students learn by **solving problems** and **reflecting on their experiences**. PBL's strength lies in its *pragmatism* and the appropriateness of its learning dynamics, which contributes to accelerating students' employability gains in the labor market.<br>
@@ -19,7 +19,7 @@ To ensure proper **application** and **measurement of the effectiveness** of edu
 
 1. Deploy **educational systems** entirely student-centered, via the use of PBL; or 
 
-2. **Add PBL dynamics** to their proprietary education systems.<br>
+2. **Add PBL dynamics** to their proprietary education systems.<br><br>
 
 **How OPEN-PBL APP acts** <br>
 OPEN-PBL APP manages the execution of **sequential tracks of synchronous sessions** (in person or not) to discuss issues such as classes for *case studies*, sessions for **drafting projects** and more. 
@@ -34,12 +34,19 @@ b) **Interacts with students** to help them:<br>
 - In **individual research and learning** of academic knowledge, necessary for the analysis of CP and;
 - In the **preparation of the individual arguments** be presented in the discussion classes.
 
+
+SEMENTE | BARRO
+------------ | -------------
+![Image1](/images/openpbl_overall1.png) | ![Image2](/openpbl_overall1.png)
+A semente à terra... | ...da terra ao barro
+
+
 More details at:<br>
 https://www.linkedin.com/company/openpbl/about/ <br>
 https://github.com/openpbl/app-docs <br>
-http://www.open-pbl.org/ <br>
+http://www.open-pbl.org/ <br><br>
 
-<br>
+
 ### OPEN-PBL CONCEPTUALIZATION AND DEVELOPMENT 
 
 The process of conceptualizing and outlining the architecture of OPEN-PBL APP originated from doctoral research from the Department of Informatics of PUC-Rio. 
@@ -58,7 +65,7 @@ OPEN-PBL.ORG maintains, in partnership with *”The Interdisciplinary Journal of
 The content of **PBL Monitor** is aimed at teachers, educators, T&D professionals, and education executives interested in following developments and discussions about the PBL learning strategy. <br>
 
 **Support for social actions** <br>
-OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application in educational initiatives promoted by municipal governments and non-profit organizations.<br>
+OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application in educational initiatives promoted by municipal governments and non-profit organizations.<br><br>
 
 ### OPEN-PBL ENVIRONMENTS AND FEATURES 
 
