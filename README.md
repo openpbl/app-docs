@@ -42,8 +42,6 @@ More details at:<br>
 [https://github.com/openpbl/app-docs](https://github.com/openpbl/app-docs) <br>
 [http://www.open-pbl.org/](http://www.open-pbl.org/) <br><br>
 
-[LinkedIn Page](https://www.linkedin.com/company/openpbl)
-
 
 ### OPEN-PBL CONCEPTUALIZATION AND DEVELOPMENT 
 
