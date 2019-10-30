@@ -26,6 +26,7 @@ OPEN-PBL APP | ACTORS OF OPEN-PBL LEARNING PROCESS
 
 <br>
 OPEN-PBL APP’s set of features enables schools and businesses to embrace the PBL strategy in their architecture and educational systems without the need of acquiring expensive and non scalable academic resources. Thus, they can ensure the proper application and measurement of the effectiveness of educational architectures to:
+- Interacts with teachers to help them create and disseminate case-problems (CP), and evaluate student performance in CP discussion classes.
 - Deploy **fully student-centered educational systems** by embracing the use of PBL; or
 - Just **add some PBL experiences** to the education systems they currently use. <br>
 
