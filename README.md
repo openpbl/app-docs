@@ -29,7 +29,8 @@ OPEN-PBL APP’s set of features enables schools and businesses to embrace the P
 - Deploy **fully student-centered educational systems** by embracing the use of PBL; or
 - Just **add some PBL experiences** to the education systems they currently use. <br>
 
-<br> 
+<br>
+
 More details at:<br>
 [https://www.linkedin.com/company/openpbl/about/](https://www.linkedin.com/company/openpbl/about/) <br>
 [https://github.com/openpbl/app-docs](https://github.com/openpbl/app-docs) <br>
