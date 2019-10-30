@@ -1,6 +1,6 @@
 ## OPEN-PBL APP 
 
-OPEN-PBL APP is an **open-source** software that manages **problem-based learning experiences** taken in vocational education. Schools can use the OPEN-PBL APP **for free** to ensure that their learning experiences are aligned with problem-based learning's theoretical framework and best practices. Small businesses can also take advantage of the problem-based learning approach's benefits by using OPEN-PBL APP **for free** in their employee training and development.<br>
+OPEN-PBL APP+ is an **open-source** software that manages **problem-based learning experiences** taken in vocational education. Schools can use the OPEN-PBL APP **for free** to ensure that their learning experiences are aligned with problem-based learning's theoretical framework and best practices. Small businesses can also take advantage of the problem-based learning approach's benefits by using OPEN-PBL APP **for free** in their employee training and development.<br>
 
 **What is PBL** <br>
 Problem-Based Learning (PBL) is a learning strategy adopted - wholly or partially - by some schools in their educational architecture. At PBL, students learn by **solving problems** and **reflecting on their experiences**. They work in small collaborative groups where they learn what they need to solve a problem presented to them. In this context, the teacher acts more as a facilitator to guide student learning than as a holder of knowledge, as in traditional learning approaches. <br>
