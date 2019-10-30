@@ -54,7 +54,7 @@ OPEN-PBL.ORG maintains, in partnership with *”The Interdisciplinary Journal of
 **Support for social actions** <br>
 OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application in educational initiatives promoted by municipal governments and non-profit organizations.<br><br>
 
-## OPEN-PBL ENVIRONMENTS WITH FREE ![Image5](/images/gc_icon1.png) 
+## ![Image5](/images/gc_icon1.png) OPEN-PBL ENVIRONMENTS    
 
 **Virtual Learning Environments** <br>
 OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
