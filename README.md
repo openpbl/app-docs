@@ -21,8 +21,9 @@ Despite the advantages of adopting PBL-based educational architectures, only few
 
 OPEN-PBL APP | ACTORS OF OPEN-PBL LEARNING PROCESS 
 ------------ | -------------
-![Image1](/images/openpbl_overall1.png) | ![Image2](/images/key_entities.png)
+![Image3](/images/openpbl_overall1.png) | ![Image4](/images/key_entities.png)
 ... | ...
+
 <br>
 
 OPEN-PBL APP’s set of features enables schools and businesses to embrace the PBL strategy in their architecture and educational systems without the need of acquiring expensive and non scalable academic resources. Thus, they can ensure the proper application and measurement of the effectiveness of educational architectures to:
