@@ -2,17 +2,16 @@
 
 OPEN-PBL APP is an **open source** software that manages **problem-based learning experiences** taken in vocational education. Schools can use the OPEN-PBL APP **for free** to ensure that their learning experiences are aligned with problem-based learning's theoretical framework and best practices. Small businesses can also take advantage of the problem-based learning approach's benefits by using OPEN-PBL APP **for free** in their employee training and development.<br>
 
-CLASSICAL SCHOOL SYSTEMS | PBL TUTORIAL PROCESS
------------- | -------------
-![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process_titleless.png)
-... | ...
-
-
-
 **What is PBL** <br>
 Problem-Based Learning (PBL) is a learning strategy adopted - wholly or partially - by some schools in their educational architecture. At PBL, students learn by **solving problems** and **reflecting on their experiences**. They work in small collaborative groups where they learn what they need to solve a problem presented. In this context, the teacher acts more as a facilitator to guide student learning than as the holder of knowledge, as in traditional learning approaches. <br>
 
 Harvard, Minerva and the tech school '42' are some examples of successful initiatives of using PBL to develop **professional higher skills**. The strength of adopting the PBL strategy in vocational education lies in the **pragmatism** of their learning experiences, which helps to **speed up students' employability gains** in the labor market. <br>
+
+CLASSICAL SCHOOL SYSTEMS | PBL TUTORIAL PROCESS
+------------ | -------------
+![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process_titleless.png)
+... | ...
+<br>
  
 **Why using OPEN-PBL APP**  <br>
 Despite the advantages of adopting PBL-based educational architectures, only few schools fully embrace the PBL approach because it requires more expensive academic resources as they are often scarce and poorly scalable. The OPEN-PBL APP helps schools and businesses address these constraints by providing a set of features for managing the execution of **class trails to discuss problem-cases solving**, such as  business and medical case study classes, sessions for discussion of tech projects solutions and more. To ensure the integrity of the application of PBL tutorial process, OPENPBL APP:
