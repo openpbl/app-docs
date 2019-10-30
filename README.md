@@ -56,7 +56,7 @@ OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementati
 ## OPEN-PBL ENVIRONMENTS AND FEATURES 
 
 **Virtual Learning Environments** <br>
-OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
+OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application ![Image5](/images/gc_icon1.png) as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
 - GC environment of individual interaction with each student;
 - GC environment of individual interaction with each teacher;
 - GC environment shared by groups of teachers, dedicated to the structured development of each “case-problem” (CP); 
