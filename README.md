@@ -1,12 +1,21 @@
 ## OPEN-PBL APP 
 
-OPEN-PBL is an **open source** software that manages **problem-based learning (PBL)** strategies. Educational institutions can use **for free** the OPEN-PBL APP to ensure that their learning experiences are aligned with PBL best practices and theoretical framework. Micro and small businesses can also take advantage of the benefits of the PBL approach and use **for free** the OPEN-PBL APP in their employee training and development.<br>
+OPEN-PBL APP is an **open source** software that manages **problem-based learning experiences** taken in vocational education. Schools can use the OPEN-PBL APP **for free** to ensure that their learning experiences are aligned with problem-based learning best practices and theoretical framework. Small businesses can also take advantage of the problem-based learning approach's benefits by using OPEN-PBL APP **for free** in their employee training and development.<br>
 
-**What is PBL**
-Problem-based learning (PBL) is the base of an *educational strategy* used by various higher education institutions to train professionals with higher skills. Harvard, Minerva and School 42 are some examples of successful initiatives in the use of PBL. From the PBL approach students learn by **solving problems** and **reflecting on their experiences**. PBL's strength lies in its *pragmatism* and the appropriateness of its learning dynamics, which contributes to accelerating students' employability gains in the labor market. <br>
+**What is PBL**  
+Problem-Based Learning (PBL) is a learning strategy adopted - wholly or partially - by some schools in their educational architecture. At PBL, students learn by **solving problems** and **reflecting on their experiences**. They work in small collaborative groups where they learn what they need to solve a problem presented. In this context, the teacher acts more as a facilitator to guide student learning than as the holder of knowledge, as in traditional learning approaches. <br>
 
-**Why Few Schools Adopt PBL** <br>
-Despite the advantages, adopting an educational architecture based on PBL has a far greater cost than other methods, and is poorly scalable as it requires scarce academic resources in general. <br><br> 
+Harvard, Minerva and the tech school '42' are some examples of successful initiatives of using PBL to develop **professional higher skills**. The strength of adopting the PBL strategy in vocational education lies in the **pragmatism** of their learning experiences, which helps to **speed up students' employability gains** in the labor market. 
+ 
+**Why using OPEN-PBL APP**
+Despite the advantages of adopting PBL-based educational architectures, only few schools fully embrace the PBL approach because it requires more expensive academic resources as they are often scarce and poorly scalable. OPEN-PBL APP helps school and businesses facing these constraints offering a bucket of features for managing the execution of **sequential tracks of classes** to discuss the solution of case-problems (CP) such as classes for discussing case studies, sessions for drafting projects and more. To ensure the integrity of the application of PBL tutorial process, OPENPBL APP:
+- Interacts with teachers to help them create and disseminate case-problems (CP), and evaluate student performance in CP discussion classes.
+- Interacts with students to help them research and learn the academic skills required for CP analysis, and prepare the individual arguments for CP discussion. <br>
+
+OPEN-PBL APP’s bucket of features enables schools and businesses to embrace the PBL strategy in their architecture and educational systems without the need of acquiring expensive and non scalable academic resources. Thus, they can ensure the proper application and measurement of the effectiveness of educational architectures to:
+- Deploy **fully student-centered educational systems** by embracing the use of PBL; or just
+- **Add some PBL experiences** to their proprietary education systems. <br>
+
 
 CLASSICAL SCHOOL | PBL TUTORIAL PROCESS
 ------------ | -------------
