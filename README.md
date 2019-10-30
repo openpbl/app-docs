@@ -19,7 +19,7 @@ Despite the advantages of adopting PBL-based educational architectures, only few
 - Interacts with teachers to help them create and disseminate case-problems (CP), and evaluate student performance in CP discussion classes.
 - Interacts with students to help them research and learn the academic skills required for CP analysis, and prepare the individual arguments for CP discussion. <br><br>
 
-OPEN-PBL APP | ACTORS OF LEARNING PROCESS 
+OPEN-PBL APP | ACTORS OF OPEN-PBL LEARNING PROCESS 
 ------------ | -------------
 ![Image1](/images/openpbl_overall1.png) | ![Image2](/images/key_entities.png)
 ... | ...
