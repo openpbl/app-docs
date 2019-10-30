@@ -17,7 +17,7 @@ OPEN-PBL APP’s bucket of features enables schools and businesses to embrace th
 - **Add some PBL experiences** to their proprietary education systems. <br>
 
 
-CLASSICAL SCHOOL | PBL TUTORIAL PROCESS
+CLASSICAL SCHOOL SYSTEMS | PBL TUTORIAL PROCESS
 ------------ | -------------
 ![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process.png)
 ... | ...
