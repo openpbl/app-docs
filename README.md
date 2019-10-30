@@ -53,16 +53,18 @@ OPEN-PBL.ORG maintains, in partnership with *”The Interdisciplinary Journal of
 **Support for social actions** <br>
 OPEN-PBL.ORG maintains a voluntary consultancy program for the free implementation of the OPEN-PBL application in educational initiatives promoted by municipal governments and non-profit organizations.<br><br>
 
-## OPEN-PBL ENVIRONMENTS AND FEATURES 
+## OPEN-PBL ENVIRONMENTS WITH FREE ![Image5](/images/gc_icon1.png) 
 
 **Virtual Learning Environments** <br>
-OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application ![Image5](/images/gc_icon1.png) as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
+OPEN-PBL uses the virtual environment of the **Google Classroom** (GC)  free application as the default interface for interacting with (and between) the actors involved in the learning process. The interaction is made in the following environments:
 - GC environment of individual interaction with each student;
 - GC environment of individual interaction with each teacher;
 - GC environment shared by groups of teachers, dedicated to the structured development of each “case-problem” (CP); 
 - GC environment of individual interaction with each student, dedicated to research and proficiency assessment in each subject prerequisite for PC analysis;
 - GC environment shared by groups of students, dedicated to the preliminary study and the elaboration of the arguments of PC analysis;
 - GC environment shared by students and teachers, intended for preliminary preparation for PC discussion classes;<br><br>
+
+## OPEN-PBL KEY FEATURES 
 
 **Instructional planning and design** <br>
 Key functionalities for instructional planning and execution provided by OPEN-PBL APP in the teacher and student interaction GC environments are: 
