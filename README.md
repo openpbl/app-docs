@@ -19,7 +19,7 @@ OPEN-PBL APP’s bucket of features enables schools and businesses to embrace th
 
 CLASSICAL SCHOOL SYSTEMS | PBL TUTORIAL PROCESS
 ------------ | -------------
-![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process.png)
+![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process_titleless.png)
 ... | ...
 
 <br>
@@ -40,9 +40,9 @@ b) **Interacts with students** to help them:<br>
 - In **individual research and learning** of academic knowledge, necessary for the analysis of CP and;
 - In the **preparation of the individual arguments** be presented in the discussion classes. <br><br>
 
-OPEN-PBL APP | OPEN PBL APP
+OPEN-PBL APP | ACTORS OF LEARNING PROCESS 
 ------------ | -------------
-![Image1](/images/openpbl_overall1.png) | ![Image2](/images/openpbl_overall1.png)
+![Image1](/images/openpbl_overall1.png) | ![Image2](/images/key_entities.png)
 ... | ...
 
 
